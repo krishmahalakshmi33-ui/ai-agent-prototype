@@ -1,0 +1,5 @@
+google-adk
+sqlalchemy
+pg8000
+flask
+gunicorn
